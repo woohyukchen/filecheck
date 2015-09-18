@@ -2,7 +2,6 @@ package bk;
 
 /**
  * test fork111, modified by janedown
- * This is backup file.
  * add new comment.
  * Created by ChenTao on 2015/9/14.
  */
