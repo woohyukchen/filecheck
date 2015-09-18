@@ -8,6 +8,7 @@ import java.security.MessageDigest;
 import java.util.*;
 
 /**
+ * This is a comment
  * Created by ChenTao on 2015/9/14.
  */
 public class FileCheck {
